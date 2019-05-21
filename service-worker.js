@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zeroc-client/precache-manifest.3b43ce9554e425af6bde4d6fdc6f6a1f.js"
+  "/zeroc-client/precache-manifest.420e77c59a5cab2c6904ea1cc70be898.js"
 );
 
 self.addEventListener('message', (event) => {

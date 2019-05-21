@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/zeroc-client/static/css/main.2cce8147.chunk.css",
-    "main.js": "/zeroc-client/static/js/main.f5c733c0.chunk.js",
-    "main.js.map": "/zeroc-client/static/js/main.f5c733c0.chunk.js.map",
+    "main.css": "/zeroc-client/static/css/main.109a96cb.chunk.css",
+    "main.js": "/zeroc-client/static/js/main.0a91982f.chunk.js",
+    "main.js.map": "/zeroc-client/static/js/main.0a91982f.chunk.js.map",
     "runtime~main.js": "/zeroc-client/static/js/runtime~main.9ec590c0.js",
     "runtime~main.js.map": "/zeroc-client/static/js/runtime~main.9ec590c0.js.map",
-    "static/js/2.b41502e9.chunk.js": "/zeroc-client/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/zeroc-client/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.a56ffa26.chunk.css": "/zeroc-client/static/css/2.a56ffa26.chunk.css",
+    "static/js/2.d111b6ce.chunk.js": "/zeroc-client/static/js/2.d111b6ce.chunk.js",
+    "static/js/2.d111b6ce.chunk.js.map": "/zeroc-client/static/js/2.d111b6ce.chunk.js.map",
     "index.html": "/zeroc-client/index.html",
-    "precache-manifest.3b43ce9554e425af6bde4d6fdc6f6a1f.js": "/zeroc-client/precache-manifest.3b43ce9554e425af6bde4d6fdc6f6a1f.js",
+    "precache-manifest.420e77c59a5cab2c6904ea1cc70be898.js": "/zeroc-client/precache-manifest.420e77c59a5cab2c6904ea1cc70be898.js",
     "service-worker.js": "/zeroc-client/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/zeroc-client/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/zeroc-client/static/media/logo.5d5d9eef.svg"
+    "static/css/2.a56ffa26.chunk.css.map": "/zeroc-client/static/css/2.a56ffa26.chunk.css.map",
+    "static/css/main.109a96cb.chunk.css.map": "/zeroc-client/static/css/main.109a96cb.chunk.css.map",
+    "static/media/im.gif": "/zeroc-client/static/media/im.13de04a2.gif",
+    "static/media/progr.gif": "/zeroc-client/static/media/progr.dc665344.gif"
   }
 }
