@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zeroc-client/static/css/main.2cce8147.chunk.css",
+    "main.js": "/zeroc-client/static/js/main.f5c733c0.chunk.js",
+    "main.js.map": "/zeroc-client/static/js/main.f5c733c0.chunk.js.map",
+    "runtime~main.js": "/zeroc-client/static/js/runtime~main.9ec590c0.js",
+    "runtime~main.js.map": "/zeroc-client/static/js/runtime~main.9ec590c0.js.map",
+    "static/js/2.b41502e9.chunk.js": "/zeroc-client/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/zeroc-client/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/zeroc-client/index.html",
+    "precache-manifest.3b43ce9554e425af6bde4d6fdc6f6a1f.js": "/zeroc-client/precache-manifest.3b43ce9554e425af6bde4d6fdc6f6a1f.js",
+    "service-worker.js": "/zeroc-client/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/zeroc-client/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/zeroc-client/static/media/logo.5d5d9eef.svg"
+  }
+}
