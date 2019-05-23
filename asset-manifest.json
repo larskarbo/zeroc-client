@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "horse/static/css/main.109a96cb.chunk.css",
-    "main.js": "horse/static/js/main.d235f752.chunk.js",
-    "main.js.map": "horse/static/js/main.d235f752.chunk.js.map",
-    "runtime~main.js": "horse/static/js/runtime~main.867591c3.js",
-    "runtime~main.js.map": "horse/static/js/runtime~main.867591c3.js.map",
-    "static/css/2.a56ffa26.chunk.css": "horse/static/css/2.a56ffa26.chunk.css",
-    "static/js/2.417a7e34.chunk.js": "horse/static/js/2.417a7e34.chunk.js",
-    "static/js/2.417a7e34.chunk.js.map": "horse/static/js/2.417a7e34.chunk.js.map",
-    "index.html": "horse/index.html",
-    "precache-manifest.59f47cb99002935978fea2508254da10.js": "horse/precache-manifest.59f47cb99002935978fea2508254da10.js",
-    "service-worker.js": "horse/service-worker.js",
-    "static/css/2.a56ffa26.chunk.css.map": "horse/static/css/2.a56ffa26.chunk.css.map",
-    "static/css/main.109a96cb.chunk.css.map": "horse/static/css/main.109a96cb.chunk.css.map",
-    "static/media/im.gif": "horse/static/media/im.13de04a2.gif",
-    "static/media/progr.gif": "horse/static/media/progr.dc665344.gif"
+    "main.css": "/zeroc-client/static/css/main.109a96cb.chunk.css",
+    "main.js": "/zeroc-client/static/js/main.d235f752.chunk.js",
+    "main.js.map": "/zeroc-client/static/js/main.d235f752.chunk.js.map",
+    "runtime~main.js": "/zeroc-client/static/js/runtime~main.9ec590c0.js",
+    "runtime~main.js.map": "/zeroc-client/static/js/runtime~main.9ec590c0.js.map",
+    "static/css/2.a56ffa26.chunk.css": "/zeroc-client/static/css/2.a56ffa26.chunk.css",
+    "static/js/2.417a7e34.chunk.js": "/zeroc-client/static/js/2.417a7e34.chunk.js",
+    "static/js/2.417a7e34.chunk.js.map": "/zeroc-client/static/js/2.417a7e34.chunk.js.map",
+    "index.html": "/zeroc-client/index.html",
+    "precache-manifest.42c89591d2bfc4e40507fe23b5270bc7.js": "/zeroc-client/precache-manifest.42c89591d2bfc4e40507fe23b5270bc7.js",
+    "service-worker.js": "/zeroc-client/service-worker.js",
+    "static/css/2.a56ffa26.chunk.css.map": "/zeroc-client/static/css/2.a56ffa26.chunk.css.map",
+    "static/css/main.109a96cb.chunk.css.map": "/zeroc-client/static/css/main.109a96cb.chunk.css.map",
+    "static/media/im.gif": "/zeroc-client/static/media/im.13de04a2.gif",
+    "static/media/progr.gif": "/zeroc-client/static/media/progr.dc665344.gif"
   }
 }
