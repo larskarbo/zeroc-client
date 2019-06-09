@@ -7,6 +7,7 @@ import { DateTime } from 'luxon'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Stream from "./Stream"
+import Video from "./Video"
 
 /*
  *
@@ -61,6 +62,7 @@ class App extends Component {
       ]
     }
 
+    // this.state = JSON.parse('{"connected":true,"recording":false,"stream":false,"videos":[{"name":"1.mp4"},{"name":"2.mp4"},{"name":"3.mp4"},{"name":"4.mp4"},{"name":"5.mp4"},{"name":"6.mp4"},{"name":"7.mp4"},{"name":"8.mp4"}]}')
     this.linkpre = "http://zeroc.local:3000/"
   }
 
@@ -190,7 +192,8 @@ class App extends Component {
   }
 
   render() {
-    console.log('this.state.videos: ', this.state.videos);
+    console.log('this.state: ', JSON.stringify(this.state));
+
     let videos = this.state.videos.map(v => ({
       ...v,
       date: DateTime.fromISO(v.date)
@@ -292,37 +295,8 @@ class App extends Component {
               //   name: {v.name}
               //   length: {v.length}
               // </div>
-              <>
-                <div key={v.name} className="card">
-                  <header className="card-header">
-                    <p className="card-header-title">
-                      {v.name}
-                    </p>
-                    <a href="#" className="card-header-icon" aria-label="more options">
-                      <span className="icon">
-                        <i className="fas fa-angle-down" aria-hidden="true"></i>
-                      </span>
-                    </a>
-                  </header>
-                  <div className="card-content">
-                    <div className="content">
-                      <video
-                        poster={this.linkpre + v.name.replace(".mp4", ".jpg")}
-                        controls
-                      >
-                        <source src={this.linkpre + v.name} type="video/mp4" />
-                        <br />
-                      </video>
-                    </div>
-                  </div>
-                  <footer className="card-footer">
-                    <a href={this.linkpre + v.name} className="card-footer-item">Download</a>
-                    <a href="#" className="card-footer-item">--</a>
-                    <a href="#" className="card-footer-item">--</a>
-                  </footer>
-                </div>
-                <br />
-              </>
+              <Video video={v} />
+              
             ))}
           </div>
         }
